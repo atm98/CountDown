@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">CountDown</string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="ph_no">Ph.no</string>
+    <string name="generate_otp">GENERATE OTP</string>
+    <string name="settings">SETTINGS</string>
+    <string name="logout">LOGOUT</string>
 </resources>
